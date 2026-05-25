@@ -1,5 +1,4 @@
-# netflix-data-analysis
-Netflix data analysis project using Python, Pandas and Matplotlib.
+
 # Netflix Data Analysis
 
 This project analyzes Netflix data using Python, Pandas and Matplotlib.
