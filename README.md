@@ -17,3 +17,4 @@ This project analyzes Netflix data using Python, Pandas and Matplotlib.
 ## Visualization
 
 ![Netflix Chart](netflix_1.png)
+![Netflix Chart](netflix_2.png)
