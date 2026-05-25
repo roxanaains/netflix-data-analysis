@@ -53,3 +53,6 @@ print(usa_content.head())
 recent = df[df["release_year"] > 2018]
 
 print(recent.head())
+
+#curatare date
+print(df.isnull().sum())
