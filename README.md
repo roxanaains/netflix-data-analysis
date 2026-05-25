@@ -19,3 +19,9 @@ This project analyzes Netflix data using Python, Pandas and Matplotlib.
 ![Netflix Chart](netflix_1.png)
 ![Netflix Chart](netflix_2.png)
 ![Netflix Chart](netflix_3.png)
+
+## Key Insights
+
+- Netflix contains significantly more movies than TV shows.
+- The United States has the highest number of productions.
+- Recent years show a strong increase in Netflix content releases.
