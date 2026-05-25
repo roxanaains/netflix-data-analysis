@@ -18,3 +18,4 @@ This project analyzes Netflix data using Python, Pandas and Matplotlib.
 
 ![Netflix Chart](netflix_1.png)
 ![Netflix Chart](netflix_2.png)
+![Netflix Chart](netflix_3.png)
